@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c40666c-19a0-4f76-a7d3-6f75f60b6406" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AmstrongNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CharacterFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CompareTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DuplicateCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DuplicateWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EvenOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FabonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FactorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FindCommentElefromThreeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LargestAndSmallestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PassNullArgWithStringAndObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PrintNumWithoutLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PrintOneToHundredWithoutNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RemoveJunkChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RevStringWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringRevWoSpecialChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SwapString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SwapWithoutThirdChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WordWithoutSemicolan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/subStringfromURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/verifyListIsSortedOrNot.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q3UrX0ZM9JvLPcEwkLUysXqtco" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c40666c-19a0-4f76-a7d3-6f75f60b6406" name="Changes" comment="" />
+      <created>1684581960624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684581960624</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
